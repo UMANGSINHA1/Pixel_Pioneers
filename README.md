@@ -1,14 +1,14 @@
-# GenArt-EngineX
+# Pixel_Pioneers
 Unleash the power of AI to generate captivating images. pixel_pioneers not only empowers you to generate awe-inspiring AI-generated images but also allows you to share your creations with our vibrant community.
 
 ## Demo
-https://genartenginex.netlify.app/
+https://pixel-pioneers.netlify.app/
 
 
 
 ## 🚀 About Me
 
-I am Saksham Jha, a Bachelor of Technology student majoring in Computer Science Engineering at the prestigious Indian Institute of Technology Dhanbad. Alongside my studies, I excel as a full-stack web developer and possess a keen interest in competitive programming.
+I am Umang Sinha, a Bachelor of Technology student majoring in Electronics and Communication Engineering at the prestigious Indian Institute of Technology Dhanbad. Alongside my studies, I excel as a full-stack web developer and possess a keen interest in competitive programming.
 
 
 
@@ -81,4 +81,4 @@ To run this project, you will need to add the following environment variables to
 
 ## Feedback
 
-If you have any feedback, please reach out to me at 21je0806@iitism.ac.in
+If you have any feedback, please reach out to me at 21je1005@iitism.ac.in
